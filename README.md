@@ -34,11 +34,12 @@ A real-time **school bus tracking system** for parents to monitor their child’
 **🔹 Role:** Frontend Developer  
 
 ### 🛍️ E-commerce App | Flutter *(Internship Project)*  
+
 Product Listing – Browse a wide range of products with categories and filters.
 Cart & Checkout – Add/remove items from the cart and proceed to checkout with secure payment.
 Wishlist – Save favorite products for later purchases.
 Advanced Filtering – Filter products by category,
----
+
 
 ## 🏆 Achievements  
 - **Finalist** in **Smart India Hackathon (SIH 2024)** 🎉  
