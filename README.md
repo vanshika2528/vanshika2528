@@ -42,7 +42,7 @@ Advanced Filtering – Filter products by category,
 
 
 ## 🏆 Achievements  
-- **Finalist** in **Smart India Hackathon (SIH 2024)** 🎉  
+- **Participated** in **Smart India Hackathon (SIH 2024)** 🎉  
 - **Selected** for **DoseHack’24** (Hackathon by CHARUSAT & DosePacker India)  
 
 ---
